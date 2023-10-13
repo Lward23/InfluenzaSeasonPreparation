@@ -7,3 +7,5 @@ and hospitals on an as-needed basis. The analysis will help plan for influenza
 season, a time when additional staff are in high demand. The final results will
 examine trends in influenza and how they can be used to proactively plan for
 staffing needs across the country.
+
+Visit my 2018 Influenza Preparation [here](https://public.tableau.com/app/profile/lisa.ward4088/viz/2018FluSeasonPlan/2018FluSeason?publish=yes).
